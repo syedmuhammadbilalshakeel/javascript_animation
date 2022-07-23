@@ -1,16 +1,3 @@
-// function tim(){
-
-// var back=["red" ,"blue" ];
-// var randomnu= back[math.floor(math.random)*1]
-
-// var cha = document.getElementById("back")
-// cha.style.background=background[math.floor]
-
-// // var change =document. []
-
-
-// }
-// tim();
 
 
 var bg = document.getElementById("background");
