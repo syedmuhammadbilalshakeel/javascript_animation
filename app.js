@@ -9,8 +9,8 @@ function backgroundColor() {
 backgroundColor();
 
 //anothe thing are changes chnaefwed
-//fgddddfdfdr
-
+//fgddjgkdfjifid
+///ljgiojljiolgosdfilj
 // var random()
 // {
 
